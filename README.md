@@ -1,5 +1,7 @@
 
-Projet n°4 : "Anticipez les besoins en consommation électrique de bâtiments" 
+Anticipez les besoins en consommation électrique de bâtiments
+
+
 
 Dans le cadre de ma formation au métier de datascientist j'ai réalisé ce projet avec le logiciel python j'ai utilisé jupyter notebook pour la réalisation du code. Les modules Numpy, Pandas, Matplotlib, Seaborn, Pingouin, Scikit learn ont été utilisés. Utilisation des algorithmes de machine learning pour des modéles linéaires, non linéaires et ensemblistes. 
 Contexte de l'étude:
